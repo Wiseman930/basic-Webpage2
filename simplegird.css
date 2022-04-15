@@ -164,13 +164,14 @@ h4{
 
 }
 .grid7{
-    margin-left: 3%;
+    margin-left: 2%;
     margin-right: 2%;
 }
 .grid8{
     margin-left: 2%;
     margin-right: 2%;
 }
+
 
 
 
@@ -200,6 +201,9 @@ h4{
 
 
  @media screen and (max-width: 790px){
+  .grid9{
+    margin-right: 0.5%;
+  }
 
     .col-6-12{
         width: 100%;
